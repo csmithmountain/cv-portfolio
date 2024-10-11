@@ -1,11 +1,10 @@
 import "./App.css";
+import Hero from "./components/Hero";
 
 function App() {
   return (
     <>
-      <div>
-        <h1>Christoffer Smithmountain</h1>
-      </div>
+      <Hero />
     </>
   );
 }
