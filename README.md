@@ -1,2 +1,3 @@
-# cv-portfolio
-My digital CV and portfolio
+# CV & Portfolio
+
+My personal website that's going to be used as a digital CV and portfolio.
